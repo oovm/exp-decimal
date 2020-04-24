@@ -1,0 +1,14 @@
+[package]
+name = "exp-decimal"
+version = "0.1.0"
+authors = ["Aster <galaster@foxmail.com>"]
+description = "special extreamly big numbers for idle games"
+edition = "2018"
+license = "MPL-2.0"
+readme = "README.md"
+repository = "https://github.com/GalAster/exp-decimal"
+exclude = ["/tests/*", "/.idea/*", "/benches/*"]
+
+[dependencies]
+num = "0.3"
+factorial = "0.2"
