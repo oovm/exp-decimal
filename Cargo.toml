@@ -10,3 +10,4 @@ repository = "https://github.com/GalAster/exp-decimal"
 exclude = ["/tests/*", "/.idea/*", "/benches/*"]
 
 [dependencies]
+num = "0.3"
